@@ -7,7 +7,7 @@ export default function Bannar() {
 
   return (
     <>
-      <div id="home" className="pt-44 px-6 sm:px-16 md:px-36" >
+      <div id="home" className="pt-44 px-6 sm:px-16 md:px-36">
         <div className="flex flex-col md:flex-row justify-between gap-10">
           <div className="pb-32 text-center md:text-left">
             <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold">
@@ -24,7 +24,7 @@ export default function Bannar() {
             </p>
             <a href="/Untitled document (1).pdf" download>
               <button className="btn mt-5 bg-indigo-500 text-white p-4 sm:p-6 rounded-3xl border-none">
-                Download CV
+                Download CV 
               </button>
             </a>
           </div>
