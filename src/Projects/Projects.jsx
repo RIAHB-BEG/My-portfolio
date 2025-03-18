@@ -3,7 +3,7 @@ import React from 'react'
 export default function Projects() {
     return (
         <>
-<div className="ms-4 md:ms-16 lg:ms-44 text-4xl font-bold text-white">
+<div className="ms-4 md:ms-56 lg:ms-44 text-4xl font-bold text-white">
   <h1>Projects</h1>
 </div>
 

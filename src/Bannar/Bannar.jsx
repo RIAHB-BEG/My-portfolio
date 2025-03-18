@@ -7,7 +7,7 @@ export default function Bannar() {
 
   return (
     <>
-      <div id="home" className="pt-44 px-6 sm:px-16 md:px-44">
+      <div id="home" className="pt-44 px-6 sm:px-16 md:px-56">
         <div className="flex flex-col md:flex-row justify-between gap-10">
           <div className="pb-32 text-center md:text-left">
             <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold">
@@ -30,7 +30,7 @@ export default function Bannar() {
           </div>
           <div className="flex justify-center md:justify-start">
             <img
-              src="public/WhatsApp Image 2025-03-05 at 22.49.14_79b0bc89.png"
+              src="/WhatsApp Image 2025-03-05 at 22.49.14_79b0bc89.jpg"
               alt="Rihab Beg"
               className="sm:w-64 md:w-96 rounded-full"
             />
