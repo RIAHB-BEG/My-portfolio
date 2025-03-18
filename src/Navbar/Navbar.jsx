@@ -72,7 +72,7 @@ export default function Navbar() {
                     {/* Right - Profile & Login Button */}
                     <div className="flex items-center gap-4 ">
                         <img
-                            src="public/WhatsApp Image 2025-03-05 at 22.49.14_79b0bc89.jpg"
+                            src="public/WhatsApp Image 2025-03-05 at 22.49.14_79b0bc89.png"
                             className="w-10 h-10 rounded-full"
                             alt="User Profile"
                         />
